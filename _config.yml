@@ -1,1 +1,10 @@
+# basic options
+title: Nieuwe Map
+author: Carissa
+email: min2goh@gmail.com
+description: Nieuwe Site
+github username: gohym
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-leap-day
